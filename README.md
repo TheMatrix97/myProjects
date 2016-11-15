@@ -1,2 +1,2 @@
 # myProjects
-Ejemplo de búsqueda dicotomica escrito en C++. Espero que os guste :) 
+Ejemplo de búsqueda dicotomica escrito en C++.
